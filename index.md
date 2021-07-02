@@ -72,8 +72,10 @@
 - [Sequential Convolution and Runge-Kutta Residual Architecture for Image Compressed Sensing](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540222.pdf)
    - Runkai Zheng, **Yinqi Zhang** , Daolang Huang, Qingliang Chen. 
    - The 16th European Conference on Computer Vision (ECCV), August 23-29, 2020. Springer Press.
+- [Learning Class Unique Features in Fine-Grained Visual Classification](https://arxiv.org/abs/2011.10951)
+   - Runkai Zheng, Zhijia Yu, **Yinqi Zhang** , Chris Ding, Hei Victor Cheng, Li Liu
+   - arXiv preprint arXiv:2011.10951
 
-  
 ## 获奖经历 ##
 
 ---
@@ -89,7 +91,7 @@
 |第六届中国国际“互联网+”创新创业大赛|队员|全国铜奖|
 |第十二届“挑战杯”全国大学生创业计划大赛|队员|全国银奖|
 |APMCM 亚太地区大学生数学建模竞赛|队员|First Prize|
-
+|APMCM 亚太地区大学生数学建模竞赛|队员|创新奖|
 
 
 
