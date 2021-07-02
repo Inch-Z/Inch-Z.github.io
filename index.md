@@ -49,8 +49,9 @@
 - SenseTime商汤科技 
    - SCG-TCG 智慧城市综合事业群-交通计算研发-计算机视觉研究员
    - 业务方向： 车辆属性识别-车辆车型识别  研究方向： 细粒度分类（FGVC）， 长尾问题（Long tail）， 迁移学习领域自适应（Domain Adaption）
-   - 成果 业务： 车辆细分类模型类别由 702 类提升至 1092 类， 精度由 94%提升至 96%， 模型大小不变， 推理速度不变。
-   - 研究： 细粒度分类任务中提出 MMLoss 与 FRLoss， 适用于一般图像分类任务与细粒度分类任务。 成稿 NIPS 论文一篇（Learning Class Unique Features in Fine-Grained Visual Classification）， 已投稿
+   - 成果 
+      - 业务： 车辆细分类模型类别由 702 类提升至 1092 类， 精度由 94%提升至 96%， 模型大小不变， 推理速度不变。
+      - 研究： 细粒度分类任务中提出 MMLoss 与 FRLoss， 适用于一般图像分类任务与细粒度分类任务。 成稿 NIPS 论文一篇（Learning Class Unique Features in Fine-Grained Visual Classification）， 已投稿
 
 
 ## 项目经历 ##
